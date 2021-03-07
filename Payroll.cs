@@ -1,4 +1,4 @@
-﻿using System;//Steven Shetler,ID: 800226059, The purpose of the program is to create a payroll slip for a salaried or hourly WVU employee 
+﻿using System;//Steven Shetler, The purpose of the program is to create a payroll slip for a salaried or hourly WVU employee 
 
 public class PayRoll
 {//creating instance variables
